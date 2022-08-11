@@ -1,3 +1,5 @@
+`Python`, `Deep Learning`,`Computer Vision`, `Data augmentation`, `Dataset creation`, `Pytorch`, `Object Detection`, `YOLO`, `Classification`, `Neural Network` 
+
 # Bachelor Project - Detection of safety related objects on bicycles and e-scooters using YOLO
 
 This project was made in collaboration with a fellow student. This project aimed to provide researchers with a tool that can automatically detect
