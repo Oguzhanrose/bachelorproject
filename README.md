@@ -33,13 +33,14 @@ We have implemented a deep learning model based on the YOLO architecture. The mo
 ## Results
 
 We have trained 11 models on a 4-class setup of USD in which the models were trained to detect helmet use for both bicyclists and users of e-scooters.
-`Ch -> Cyclist with helmet`, `Cn -> Cyclist without helmet`, `Eh -> Escooter with helmet` and `En -> Escooter without helmet`. Below we see good examples
-on our models' performance and the other one is a table showing the mean average precisin (mAP) score on the trained 11 models been evaluated on a test-set.
+`Ch -> Cyclist with helmet`, `Cn -> Cyclist without helmet`, `Eh -> Escooter with helmet` and `En -> Escooter without helmet`. Below on the first image we see good examples from our best model's performance.
 
 
 <br>
 <p align="center"> <img src="./readme_img/results_good.png" alt="Drawing"/> </p>
 <br>
+
+This one shows us a table showing the mean average precision (mAP) score on the trained 11 models been evaluated on a test-set.
 
 <br>
 <p align="center"> <img src="./readme_img/results.png" alt="Drawing"/> </p>
