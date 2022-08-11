@@ -40,7 +40,7 @@ We have trained 11 models on a 4-class setup of USD in which the models were tra
 <p align="center"> <img src="./readme_img/results_good.png" alt="Drawing"/> </p>
 <br>
 
-This one shows us a table showing the mean average precision (mAP) score on the trained 11 models been evaluated on a test-set.
+This illustration below is a table showing the mean average precision (mAP) score on the trained 11 models, which has been evaluated on the test-set.
 
 <br>
 <p align="center"> <img src="./readme_img/results.png" alt="Drawing"/> </p>
