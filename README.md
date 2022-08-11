@@ -11,7 +11,7 @@ augmentations designed for bike lane recordings. For ethical reasons we unfortun
 The following illustration shows an overview on how the dataset was created:
 
 <br>
-<p align="center"> <img src="./readme_img/data_overview.png" alt="Drawing"/> </p>
+<p align="center"> <img src="./readme_img/data_overview.jpg" alt="Drawing"/> </p>
 <br>
 
 ## Data augmentation
@@ -19,7 +19,7 @@ The following illustration shows an overview on how the dataset was created:
 Here we see an overview of how the hand-tailored data augmentation has be created:
 
 <br>
-<p align="center"> <img src="./readme_img/augmentation_special_overview.png" alt="Drawing"/> </p>
+<p align="center"> <img src="./readme_img/augmentation_special_overview.jpg" alt="Drawing"/> </p>
 <br>
 
 ## YOLO model
@@ -27,7 +27,7 @@ Here we see an overview of how the hand-tailored data augmentation has be create
 We have implemented a deep learning model based on the YOLO architecture. The model we have implemented use Darknet-53 as a backbone:
 
 <br>
-<p align="center"> <img src="./readme_img/methods_yolo_model_overview.png" alt="Drawing"/> </p>
+<p align="center"> <img src="./readme_img/methods_yolo_model_overview.jpg" alt="Drawing"/> </p>
 <br>
 
 ## Results
