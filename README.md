@@ -18,7 +18,7 @@ The following illustration shows an overview on how the dataset was created:
 
 ## Data augmentation
 
-Here we see an overview of how the hand-tailored data augmentation has be created:
+Here we see an overview of how the hand-tailored data augmentation has been created:
 
 <br>
 <p align="center"> <img src="./readme_img/augmentation_special_overview.jpg" alt="Drawing"/> </p>
